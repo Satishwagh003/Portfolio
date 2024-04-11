@@ -1,11 +1,15 @@
 # Satish Balasaheb Wagh
 
 ## Contact Information
-- Phone: 9356663737
-- Email: Satishwagh003@gmail.com
-- GitHub: [Satishwagh003](https://github.com/Satishwagh003)
-- Kaggle: [Satishwagh003](https://www.kaggle.com/satishwagh003)
-- LinkedIn: [Satish Wagh](https://linkedin.com/in/satish-wagh-1b2ab4214)
+- Phone: ![Phone](https://example.com/phone-icon.png) 9356663737
+- Email: ![Email](https://example.com/email-icon.png) Satishwagh003@gmail.com
+- GitHub: ![GitHub](https://example.com/github-icon.png) [Satishwagh003](https://github.com/Satishwagh003)
+- Kaggle: ![Kaggle](https://example.com/kaggle-icon.png) [Satishwagh003](https://www.kaggle.com/satishwagh003)
+- LinkedIn: ![LinkedIn](https://example.com/linkedin-icon.png) [Satish Wagh](https://linkedin.com/in/satish-wagh-1b2ab4214)
+
+![Profile Picture](https://example.com/profile-picture.jpg)
+
+
 
 ## Summary
 I am a recent Statistics graduate with a passion for transitioning into a Data Scientist role. I enjoy working with numbers and data, and I'm good at thinking analytically and solving problems. I have skills in data science, data visualization, machine learning, natural language processing, Tableau, and SQL. I am also learning more about AI. I am skilled in Python and SQL for analyzing data and have a strong foundation in problem-solving. I am interested in using my engineering skills to understand complex data and help make better decisions based on data.
